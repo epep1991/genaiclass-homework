@@ -6,10 +6,11 @@ My primary focus is on agentic workflows for content creation and management —
 
 # 3 Ways Generative AI Drives Value in Agentic Content Workflows
 
-Speed at scale: AI can draft blogs, social posts, emails, and ad copy way faster than a human team and adapt it across formats without starting from scratch each time.
-Orchestrating the whole pipeline: Instead of manual handoffs, AI agents can pull trends, generate briefs, route drafts for review, and schedule publishing without someone babysitting each step.
-Self-improving content: When you connect performance data back into the workflow, the system learns what's working and adjusts. Less guesswork, fewer meetings about what to post next.
+* **Speed at scale**: AI can draft blogs, social posts, emails, and ad copy way faster than a human team and adapt it across formats without starting from scratch each time.
 
+* **Orchestrating the whole pipeline**: Instead of manual handoffs, AI agents can pull trends, generate briefs, route drafts for review, and schedule publishing without someone babysitting each step.
+
+* **Self-improving content**: When you connect performance data back into the workflow, the system learns what's working and adjusts. Less guesswork, fewer meetings about what to post next.
 ---
 
 ## Prompt & Reflection
