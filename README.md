@@ -15,4 +15,4 @@ This repository contains my HW1 submission for Generative AI for Business (BU.33
 4. Add manually edited final version
 
 ## Video Walkthrough
-[(https://youtu.be/0QrDkwcB5Vw)](https://youtu.be/0QrDkwcB5Vw)
+https://youtu.be/0QrDkwcB5Vw
