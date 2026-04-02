@@ -1,14 +1,14 @@
 # AI-Powered Content: The Generative AI Consultant's Perspective
 
-I am a Gen AI consultant specializing in the content and digital marketing space. I work with brands, agencies, and marketing teams to design and implement AI-driven strategies that transform how content is conceived, produced, and distributed. With deep expertise at the intersection of emerging AI technology and modern marketing practice, I help organizations move beyond experimentation and into scalable, real-world AI adoption.
+I am a Gen AI consultant specializing in the content and digital marketing space. I work with brands, agencies, and marketing teams to design and implement AI-driven strategies that transform how content is conceived, produced, and distributed. With deep expertise at the intersection of emerging AI technology and modern marketing practice, I help organizations move beyond experimentation and into scalable, real-world AI adoption. I have a background in content design and Gen AI strategy for content, which later I pivoted to a PM role, and now I'm happy to come back into consulting.
 
-My primary focus is on agentic workflows for content creation and management — specifically, how AI agents can automate and orchestrate end-to-end content pipelines from ideation all the way through publishing and performance tracking. Rather than treating AI as a single-step writing tool, he designs multi-agent systems where specialized AI components collaborate: one agent researches trends and audience signals, another drafts and refines content, another handles SEO and distribution logic, and yet another monitors post-publish analytics to feed insights back into the next cycle. The result is a living content engine that runs with minimal human bottlenecks while staying aligned to brand voice and business goals.
+My primary focus is on agentic workflows for content creation and management — specifically, how AI agents can automate and orchestrate end-to-end content pipelines from ideation all the way through publishing and performance tracking. Rather than treating AI as a single-step writing tool, I design multi-agent systems where specialized AI components collaborate: one agent researches trends and audience signals, another drafts and refines content, another handles SEO and distribution logic, and yet another monitors post-publish analytics to feed insights back into the next cycle. The result is a living content engine that runs with minimal human bottlenecks while staying aligned to brand voice and business goals.
 
-## 3 Ways Generative AI Drives Value in Agentic Content Workflows
+# 3 Ways Generative AI Drives Value in Agentic Content Workflows
 
-- **Scalable content production at speed**: Generative AI can draft, adapt, and localize content across formats — blog posts, social copy, email sequences, ad variants — in a fraction of the time it takes human teams alone, enabling brands to maintain high publishing velocity without sacrificing quality.
-- **Intelligent orchestration across the content lifecycle**: AI agents can coordinate complex, multi-step workflows autonomously — from pulling trending topics and competitor analysis, to generating briefs, routing drafts for review, scheduling publication, and triggering follow-up distribution — reducing manual handoffs and operational overhead.
-- **Continuous optimization through feedback loops**: By connecting performance data (engagement, conversions, SEO rankings) back into the pipeline, generative AI enables content strategies that self-improve over time — surfacing what resonates, adjusting tone and messaging, and informing future content decisions without requiring constant human analysis.
+Speed at scale: AI can draft blogs, social posts, emails, and ad copy way faster than a human team and adapt it across formats without starting from scratch each time.
+Orchestrating the whole pipeline: Instead of manual handoffs, AI agents can pull trends, generate briefs, route drafts for review, and schedule publishing without someone babysitting each step.
+Self-improving content: When you connect performance data back into the workflow, the system learns what's working and adjusts. Less guesswork, fewer meetings about what to post next.
 
 ---
 
@@ -26,6 +26,8 @@ My primary focus is on agentic workflows for content creation and management —
 
 **What I changed:**
 - Instead of using third person throughout the introduction paragraph, I switched all the text in that section to first person, saying I instead of Eric.
+- I also added context about my background in content strategy and talked how I evolved into a Gen AI specialist.
+- I cleaned up the bulletpoints and rewrote them myself because they sounded very generic.
 
 **Why I changed it:**
 - This felt more natural as if I had written it myself.
